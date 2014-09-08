@@ -2,3 +2,43 @@
 
 /* NAVIGATION */
 
+.navbar-default .navbar-nav>li>a.twit:hover, .navbar-default .navbar-nav>li>a.twit:focus {
+	color: #4099ff;
+}
+
+.navbar-default .navbar-nav>li>a.fbook:hover, .navbar-default .navbar-nav>li>a.fbook:focus {
+	color: #3b5998;
+}
+
+.navbar-default .navbar-nav>li>a.igram:hover, .navbar-default .navbar-nav>li>a.igram:focus {
+	color: #cbbba5;
+}
+
+/* CAROUSEL */
+
+.carousel-caption { 
+	font-size: 5em;
+}
+
+.carousel-caption a { 
+	color: black;
+}
+
+.carousel-caption a:hover { 
+	color: red;
+	text-decoration: none;
+}
+
+/* LAYOUT */
+
+.carousel {
+	margin-bottom: 20px;
+}
+
+/* Device Styles */
+
+@media (min-width: 1200px) {
+	.container {
+		width: 970px;
+	}
+}
