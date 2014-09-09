@@ -14,6 +14,10 @@
 	color: #cbbba5;
 }
 
+.navbar-nav>li {
+
+}
+
 /* CAROUSEL */
 
 .carousel-caption { 
@@ -33,6 +37,16 @@
 
 .carousel {
 	margin-bottom: 20px;
+}
+
+.btn-group {
+	margin-bottom: 20px;
+}
+
+@media (min-width: 992px){
+.col-md-12 h2{
+	display: inline-block;
+	}
 }
 
 /* Device Styles */
