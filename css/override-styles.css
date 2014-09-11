@@ -125,6 +125,14 @@ border-bottom-left-radius: 3px;
 	text-align: right;
 }
 
+.panel-heading a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.panel-heading a:hover {
+	text-decoration: underline;
+}
 
 /* DEVICE STYLES */
 
