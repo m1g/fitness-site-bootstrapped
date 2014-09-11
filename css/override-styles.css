@@ -55,7 +55,7 @@ div#carousel-example-generic.carousel.slide {
 	text-decoration: none;
 }
 
-div.headline {
+div.carousel-caption.headline {
 	left: 10px;
 	clear: both;
 	color: #fff;
@@ -64,8 +64,9 @@ div.headline {
 	width: 300px;
 }
 
-div.headline2 {
-	left: 615px;
+div.carousel-caption.headline2 {
+	left: auto;
+	right: 10px;
 	clear: both;
 	color: #fff;
 	text-align: right;
