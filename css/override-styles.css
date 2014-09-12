@@ -33,7 +33,7 @@ hr {
 	padding-bottom: 10px;
 }
 
-/* CAROUSEL */
+/* CAROUSEL, JUMBOTRON, CLASSES CHART, and CONTACT */
 
 div#carousel-example-generic.carousel.slide {
 	border-radius: 3px;
@@ -77,6 +77,13 @@ div.carousel-caption.headline2 {
 div.headline h1, div.headline2 h1 {
 	color: #C1D72E;
 }
+
+.jumbotron {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
 /* LAYOUT */
 
 .carousel {
